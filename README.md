@@ -2,7 +2,8 @@
 
 ### I'm a Software Engineer @[Siemens](https://www.siemens.com) & a Compiler Hacker @[OSS](https://en.wikipedia.org/wiki/Open-source_software)
 
-- I’m currently contributing to the design system for [Mendix](https://www.mendix.com), a Siemens business.
+- I’m currently contributing to the design system at [Mendix](https://www.mendix.com), the premier low-code IDE, as
+a frontend engineer.
 - While in my free time, I actively contribute to the [jank programming language](https://github.com/jank-lang/jank)
 project in open source.
 
