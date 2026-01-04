@@ -8,11 +8,10 @@ low-code IDE, at [Mendix](https://www.mendix.com), a Siemens business, as a fron
 project in open source.
 
 My interests are deeply rooted in exploring a philosophical approach to programming, as well as anything
-related to developer tooling (IDEs, compilers, runtimes, systems programming, etc.). This makes contributing
-to a low-code IDE (full-time) and a programming language a perfect fit for me.
+related to developer tooling (IDEs, compilers, runtimes, systems programming, etc.).
 
 ### Quick links
 
-- [LinkedIn](https://www.linkedin.com/in/shantanu-sardesai).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/shantanu-sardesai).
 - Feel free to contact me at [hi.shantanu@sardesai.dev](mailto:hi.shantanu@sardesai.dev) to talk about anything nerdy.
-- [Blog](https://sardesai.dev) - WIP, stay tuned.
+- [Portfolio & Blog](https://sardesai.dev) - WIP, stay tuned.
