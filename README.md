@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**shantanu-sardesai/shantanu-sardesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engineer @[Siemens](https://www.siemens.com) & a Compiler Hacker @[OSS](https://en.wikipedia.org/wiki/Open-source_software)
 
-Here are some ideas to get you started:
+- I’m currently contributing to the design system for [Mendix](https://www.mendix.com), a Siemens business.
+- While in my free time, I actively contribute to the [jank programming language](https://github.com/jank-lang/jank)
+project in open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests are deeply rooted in exploring a philosophical approach to programming, as well as anything
+related to developer tooling (IDEs, compilers, runtimes, systems programming, etc.). This makes contributing
+to a low-code IDE (full-time) and a programming language a perfect fit for me.
+
+### Quick links
+
+- [LinkedIn](https://www.linkedin.com/in/shantanu-sardesai).
+- Feel free to contact me at [hi.shantanu@sardesai.dev](mailto:hi.shantanu@sardesai.dev) to talk about anything nerdy.
+- [Blog](https://sardesai.dev) - WIP, stay tuned.
