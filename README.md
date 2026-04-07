@@ -4,8 +4,11 @@
 
 - I’m currently contributing to the design system for [Studio Pro](https://www.mendix.com/platform/ide), the leading
 low-code IDE, at [Mendix](https://www.mendix.com), a Siemens business, as a frontend engineer.
-- While in my free time, I actively contribute to the [jank programming language](https://github.com/jank-lang/jank)
-project in open source.
+- While in my free time, I actively contribute to open source. Currently I'm focusing most of my contribution efforts
+to:
+  - The [jank programming language](https://github.com/jank-lang/jank): A Clojure dialect on LLVM with C++ interop.
+  - The [Clojure test suite](https://github.com/jank-lang/clojure-test-suite): Dialect-independent tests for `clojure.core`,
+  and others, focused on characterizing how Clojure JVM behaves helping other dialects reach parity.
 
 My interests are deeply rooted in exploring a philosophical approach to programming, as well as anything
 related to developer tooling (IDEs, compilers, runtimes, systems programming, etc.).
